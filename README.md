@@ -2,7 +2,7 @@ pkg install git
 
 pkg install akad
 
-pkg install python3-pip
+pkg install python3
 
 pip3 install rsa
 
@@ -37,6 +37,8 @@ pip3 install antolib
 pip3 install urllib
 
 git clone https://github.com/Smoke101/HKSELFBOT
+
+unzip HKSELFBOT.zip
 
 ls
 
