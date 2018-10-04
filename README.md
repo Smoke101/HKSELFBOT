@@ -38,11 +38,11 @@ pip3 install urllib
 
 git clone https://github.com/Smoke101/HKSELFBOT
 
-unzip HKSELFBOT.zip
-
 ls
 
 cd HKSELFBOT
+
+unzip HKSELFBOT.zip
 
 Is
 
